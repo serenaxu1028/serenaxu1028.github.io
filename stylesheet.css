@@ -1,0 +1,21 @@
+body {
+	background: lightyellow;
+	font-family:  tahoma;
+{
+
+p {
+	font-family: Comic Sans MS;
+}
+
+#first {
+	height: 200px;
+	width: 200px;
+	background: purple;
+}
+
+#second {
+	height: 400px;
+	width: 200px;
+	background: blue;
+	float: right;
+}
